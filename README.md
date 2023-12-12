@@ -7,7 +7,7 @@ This algorithm is first presented in [1] and then improved upon in [2]. Be sure 
 
 The calculated performance indicators are power conversion efficiency (based on the extended one-diode equation), average visible transmission, and color rendering index (Duv (CIE1960)). The figure below shows the diagram with all the possible paths a ray can take through an LSC that are incorporated in the algorithm. It shows three types of luminophores, the maximum amount the algorithm can handle. 
 
-![https://raw.githubusercontent.com/TyredMayfly/NumericalLSC/diagram.jpg](https://github.com/TyredMayfly/NumericalLSC/blob/b48545fd479911b02c126a32ba5ff0012b7a6501/diagram.jpg)
+![](https://github.com/TyredMayfly/NumericalLSC/blob/b48545fd479911b02c126a32ba5ff0012b7a6501/diagram.jpg)
 
 # Algorithm example
 
